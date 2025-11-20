@@ -1,0 +1,298 @@
+
+html, body {
+    scroll-behavior: auto !important;
+    overflow-anchor: none !important;
+}
+
+
+body {
+    overflow-x: hidden !important;
+    overflow-y: auto !important;
+}
+
+
+
+
+@import url('https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Vazirmatn-Variable-font-face.css');
+@font-face {
+    font-family: 'Tanha' ;
+    src: url('fonts/Tanha.woff'),format('woff')
+    , url('fonts/Tanha.woff2'),format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+body {
+    font-family:'Roboto''Vazirmatn', Arial, Helvetica, sans-serif;
+    text-align: center;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 100vh;
+    padding-top: 15vh;
+}
+
+.background{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-image: url('images/Picsart_25-09-27_12-40-56-227.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-position: center center;
+    filter: blur(1px);
+    z-index: -1;
+}
+
+@media only screen and (min-width:768px){
+    .background {
+        background-size: contain;
+    }
+}
+
+.container{
+    background: #ffffff;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    margin: 0 auto;
+    max-width: 400px;
+    width: auto;
+}
+@media only screen and (max-width:600px){
+    .container {
+        width: 90%;
+        max-width:none;
+        padding: 25px;
+    }
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    background: #5b73ab;
+    color: white;
+    cursor: pointer;
+    font-family:'Roboto','Tanha', 'Vazirmatn', sans-serif;
+    font-weight: normal;
+}
+button:hover {
+    background: #6999c6;
+}
+select { 
+  font-size: 16px;
+  padding: 5px;
+  margin: 15px;
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+li {
+    background: #fff;
+    margin: 8px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0px 1px 3px rgba(0,0,0,0.1);
+}
+
+#book-list{
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin-top: 30px;
+    align-items: center;
+}
+
+.book-card{
+    border: 1px solid #e0e0e0;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    width: 90%;
+    max-width: 800px;
+    overflow: hidden;
+    text-align: right;
+    transition: transform 0.2s, box-shadow 0.2s;
+    cursor: default;
+    min-height: 250px;
+    padding: 15px;
+}
+
+.book-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15);
+}
+
+.card-inner {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.book-cover-shadow {
+    position: relative;
+    width: 160px;
+    height: 240px;
+    margin-left: 25px;
+    box-shadow: 10px 10px 20px rgba(0,0,0,0.25);
+    border-radius: 4px;
+    flex-shrink: 0;
+}
+
+.book-cover {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 4px;
+}
+
+.book-details {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding-top: 5px;
+}
+
+.book-title {
+    font-size: 1.8em;
+    font-weight: 900;
+    color: #333;
+    margin: 0 0 5px 0;
+}
+
+.book-author {
+    font-size: 1.1em;
+    color: #282626;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #555454;
+    padding-bottom: 5px;
+}
+
+.book-description {
+    font-size: 1em;
+    color: #444;
+    line-height: 1.7;
+    margin-top: auto;
+    text-align: justify;
+    padding-top: 10px;
+    
+}
+
+.pagination-controls {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 50px;
+    padding: 20px 0;
+    width: 90%;
+    max-width: 1000px;
+}
+
+.pagination-controls span {
+    align-self: center;
+    font-weight: bold;
+    color: #333;
+}
+
+
+.page-btn {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1em;
+    font-weight: 700;
+    background-color: #5d5d5d;
+    color: white;
+    transition: background-color 0.2s, opacity 0.2s;
+}
+
+.page-btn:hover:not(:disabled) {
+    background-color: #333;
+}
+
+.page-btn:disabled {
+    background-color: #aaa;
+    cursor: not-allowed;
+    opacity: 0.7;
+}
+
+@media (max-width: 768px) {
+    .card-inner {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    .book-cover-shadow {
+        margin: 0 0 20px 0;
+        width: 140px;
+        height: 210px;
+    }
+
+    .book-title , .book-author , .book-description {
+        text-align: center;
+    }
+    .book-description {
+        text-align: justify;
+    }
+}
+
+#results-container {
+    background: #ffffff;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    margin: 0 auto; 
+    max-width: 365px; 
+    width: 80%; 
+    padding-top: 15px;
+}
+
+.popup {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(0.8);
+    padding: 20px 30px;
+    background: white;
+    border-radius: 15px;
+    box-shadow: 0 8px 30px rgba(0,0,0,0.2);
+    font-size: 1.1rem;
+    text-align: center;
+    z-index: 99999;
+
+    opacity: 0;
+    transition: 0.3s ease;
+}
+
+.popup.show {
+    opacity: 1;
+    transform: translate(-50%, -50%) scale(1);
+}
+
+.popup.success {
+    border: 2px solid #83f687;
+    color: #0d0d0d;
+}
+
+.popup.warning {
+    border: 2px solid #fed55a;
+    color: #000000;
+}
+
+.hidden {
+    display: none;
+}
