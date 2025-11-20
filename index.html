@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <title> Soul's Book </title>
+        <link rel="icon" type="image/png" href="images/logo.png">
+        <link rel="stylesheet" href="style.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    </head>
+    <div id="popup-message" class="popuphidden"></div>
+    <body>
+        
+        <div class="background"></div>
+        <div id="welcome-screen" class="container">
+            <h2>به soul's Book خوش آمدید </h2>
+            <button id="enter-btn"> ورود و ادامه</button>
+            <button id="mbti-test-btn">تست MBTI </button>
+        </div>
+
+        <div id="mbti-input-selection" class="container" style="display: none;">
+            <h2> تایپ MBTI خود را انتخاب کنید </h2>
+            <select id="mbti-selector"></select>
+            <button id="get-recs-btn"> نمایش کتاب ها </button>
+
+        </div>
+
+        <div id="results-container" class="container" style="display: none;">
+            <h2> پیشنهاد کتاب برای تایپ <span id="selected-mbti-type"></span></h2>
+            <ul id="book-list"></ul>
+        <div id="pagination-controls" class="pagination-controls"></div>
+        </div>
+        <script src="script.js"></script>
+    </body>
+</html>
