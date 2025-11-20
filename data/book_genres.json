@@ -1,0 +1,2562 @@
+[
+    {
+        "BookID": 1,
+        "GenreID": 1
+    },
+    {
+        "BookID": 2,
+        "GenreID": 1
+    },
+    {
+        "BookID": 3,
+        "GenreID": 1
+    },
+    {
+        "BookID": 4,
+        "GenreID": 1
+    },
+    {
+        "BookID": 6,
+        "GenreID": 1
+    },
+    {
+        "BookID": 7,
+        "GenreID": 1
+    },
+    {
+        "BookID": 8,
+        "GenreID": 1
+    },
+    {
+        "BookID": 9,
+        "GenreID": 1
+    },
+    {
+        "BookID": 10,
+        "GenreID": 1
+    },
+    {
+        "BookID": 11,
+        "GenreID": 1
+    },
+    {
+        "BookID": 12,
+        "GenreID": 1
+    },
+    {
+        "BookID": 13,
+        "GenreID": 1
+    },
+    {
+        "BookID": 14,
+        "GenreID": 2
+    },
+    {
+        "BookID": 15,
+        "GenreID": 2
+    },
+    {
+        "BookID": 16,
+        "GenreID": 2
+    },
+    {
+        "BookID": 17,
+        "GenreID": 2
+    },
+    {
+        "BookID": 18,
+        "GenreID": 2
+    },
+    {
+        "BookID": 19,
+        "GenreID": 2
+    },
+    {
+        "BookID": 20,
+        "GenreID": 2
+    },
+    {
+        "BookID": 21,
+        "GenreID": 2
+    },
+    {
+        "BookID": 22,
+        "GenreID": 2
+    },
+    {
+        "BookID": 23,
+        "GenreID": 2
+    },
+    {
+        "BookID": 24,
+        "GenreID": 2
+    },
+    {
+        "BookID": 25,
+        "GenreID": 2
+    },
+    {
+        "BookID": 26,
+        "GenreID": 2
+    },
+    {
+        "BookID": 27,
+        "GenreID": 2
+    },
+    {
+        "BookID": 28,
+        "GenreID": 2
+    },
+    {
+        "BookID": 33,
+        "GenreID": 2
+    },
+    {
+        "BookID": 34,
+        "GenreID": 2
+    },
+    {
+        "BookID": 35,
+        "GenreID": 3
+    },
+    {
+        "BookID": 36,
+        "GenreID": 3
+    },
+    {
+        "BookID": 38,
+        "GenreID": 3
+    },
+    {
+        "BookID": 40,
+        "GenreID": 3
+    },
+    {
+        "BookID": 41,
+        "GenreID": 3
+    },
+    {
+        "BookID": 46,
+        "GenreID": 3
+    },
+    {
+        "BookID": 47,
+        "GenreID": 3
+    },
+    {
+        "BookID": 48,
+        "GenreID": 3
+    },
+    {
+        "BookID": 49,
+        "GenreID": 3
+    },
+    {
+        "BookID": 50,
+        "GenreID": 3
+    },
+    {
+        "BookID": 51,
+        "GenreID": 3
+    },
+    {
+        "BookID": 53,
+        "GenreID": 4
+    },
+    {
+        "BookID": 54,
+        "GenreID": 4
+    },
+    {
+        "BookID": 55,
+        "GenreID": 4
+    },
+    {
+        "BookID": 56,
+        "GenreID": 4
+    },
+    {
+        "BookID": 57,
+        "GenreID": 4
+    },
+    {
+        "BookID": 60,
+        "GenreID": 4
+    },
+    {
+        "BookID": 61,
+        "GenreID": 4
+    },
+    {
+        "BookID": 62,
+        "GenreID": 4
+    },
+    {
+        "BookID": 63,
+        "GenreID": 4
+    },
+    {
+        "BookID": 65,
+        "GenreID": 4
+    },
+    {
+        "BookID": 66,
+        "GenreID": 4
+    },
+    {
+        "BookID": 67,
+        "GenreID": 4
+    },
+    {
+        "BookID": 68,
+        "GenreID": 4
+    },
+    {
+        "BookID": 71,
+        "GenreID": 5
+    },
+    {
+        "BookID": 73,
+        "GenreID": 5
+    },
+    {
+        "BookID": 74,
+        "GenreID": 5
+    },
+    {
+        "BookID": 75,
+        "GenreID": 5
+    },
+    {
+        "BookID": 76,
+        "GenreID": 5
+    },
+    {
+        "BookID": 77,
+        "GenreID": 5
+    },
+    {
+        "BookID": 78,
+        "GenreID": 5
+    },
+    {
+        "BookID": 79,
+        "GenreID": 6
+    },
+    {
+        "BookID": 80,
+        "GenreID": 6
+    },
+    {
+        "BookID": 81,
+        "GenreID": 6
+    },
+    {
+        "BookID": 82,
+        "GenreID": 6
+    },
+    {
+        "BookID": 84,
+        "GenreID": 6
+    },
+    {
+        "BookID": 85,
+        "GenreID": 6
+    },
+    {
+        "BookID": 86,
+        "GenreID": 6
+    },
+    {
+        "BookID": 87,
+        "GenreID": 6
+    },
+    {
+        "BookID": 88,
+        "GenreID": 6
+    },
+    {
+        "BookID": 90,
+        "GenreID": 6
+    },
+    {
+        "BookID": 91,
+        "GenreID": 6
+    },
+    {
+        "BookID": 92,
+        "GenreID": 6
+    },
+    {
+        "BookID": 93,
+        "GenreID": 6
+    },
+    {
+        "BookID": 94,
+        "GenreID": 6
+    },
+    {
+        "BookID": 95,
+        "GenreID": 6
+    },
+    {
+        "BookID": 96,
+        "GenreID": 6
+    },
+    {
+        "BookID": 97,
+        "GenreID": 6
+    },
+    {
+        "BookID": 98,
+        "GenreID": 6
+    },
+    {
+        "BookID": 100,
+        "GenreID": 6
+    },
+    {
+        "BookID": 108,
+        "GenreID": 3
+    },
+    {
+        "BookID": 109,
+        "GenreID": 7
+    },
+    {
+        "BookID": 110,
+        "GenreID": 7
+    },
+    {
+        "BookID": 111,
+        "GenreID": 7
+    },
+    {
+        "BookID": 112,
+        "GenreID": 7
+    },
+    {
+        "BookID": 113,
+        "GenreID": 7
+    },
+    {
+        "BookID": 114,
+        "GenreID": 7
+    },
+    {
+        "BookID": 115,
+        "GenreID": 7
+    },
+    {
+        "BookID": 116,
+        "GenreID": 7
+    },
+    {
+        "BookID": 117,
+        "GenreID": 7
+    },
+    {
+        "BookID": 118,
+        "GenreID": 7
+    },
+    {
+        "BookID": 119,
+        "GenreID": 7
+    },
+    {
+        "BookID": 120,
+        "GenreID": 7
+    },
+    {
+        "BookID": 121,
+        "GenreID": 7
+    },
+    {
+        "BookID": 122,
+        "GenreID": 3
+    },
+    {
+        "BookID": 123,
+        "GenreID": 3
+    },
+    {
+        "BookID": 124,
+        "GenreID": 3
+    },
+    {
+        "BookID": 125,
+        "GenreID": 3
+    },
+    {
+        "BookID": 126,
+        "GenreID": 3
+    },
+    {
+        "BookID": 127,
+        "GenreID": 3
+    },
+    {
+        "BookID": 128,
+        "GenreID": 3
+    },
+    {
+        "BookID": 129,
+        "GenreID": 3
+    },
+    {
+        "BookID": 130,
+        "GenreID": 3
+    },
+    {
+        "BookID": 131,
+        "GenreID": 3
+    },
+    {
+        "BookID": 132,
+        "GenreID": 3
+    },
+    {
+        "BookID": 133,
+        "GenreID": 3
+    },
+    {
+        "BookID": 134,
+        "GenreID": 3
+    },
+    {
+        "BookID": 135,
+        "GenreID": 8
+    },
+    {
+        "BookID": 136,
+        "GenreID": 8
+    },
+    {
+        "BookID": 137,
+        "GenreID": 8
+    },
+    {
+        "BookID": 138,
+        "GenreID": 8
+    },
+    {
+        "BookID": 139,
+        "GenreID": 8
+    },
+    {
+        "BookID": 140,
+        "GenreID": 8
+    },
+    {
+        "BookID": 141,
+        "GenreID": 8
+    },
+    {
+        "BookID": 142,
+        "GenreID": 8
+    },
+    {
+        "BookID": 143,
+        "GenreID": 8
+    },
+    {
+        "BookID": 144,
+        "GenreID": 8
+    },
+    {
+        "BookID": 145,
+        "GenreID": 8
+    },
+    {
+        "BookID": 146,
+        "GenreID": 8
+    },
+    {
+        "BookID": 147,
+        "GenreID": 8
+    },
+    {
+        "BookID": 148,
+        "GenreID": 8
+    },
+    {
+        "BookID": 149,
+        "GenreID": 9
+    },
+    {
+        "BookID": 150,
+        "GenreID": 9
+    },
+    {
+        "BookID": 151,
+        "GenreID": 9
+    },
+    {
+        "BookID": 152,
+        "GenreID": 9
+    },
+    {
+        "BookID": 153,
+        "GenreID": 9
+    },
+    {
+        "BookID": 155,
+        "GenreID": 9
+    },
+    {
+        "BookID": 156,
+        "GenreID": 9
+    },
+    {
+        "BookID": 157,
+        "GenreID": 9
+    },
+    {
+        "BookID": 158,
+        "GenreID": 9
+    },
+    {
+        "BookID": 159,
+        "GenreID": 9
+    },
+    {
+        "BookID": 160,
+        "GenreID": 9
+    },
+    {
+        "BookID": 161,
+        "GenreID": 9
+    },
+    {
+        "BookID": 162,
+        "GenreID": 9
+    },
+    {
+        "BookID": 163,
+        "GenreID": 10
+    },
+    {
+        "BookID": 164,
+        "GenreID": 10
+    },
+    {
+        "BookID": 165,
+        "GenreID": 10
+    },
+    {
+        "BookID": 167,
+        "GenreID": 10
+    },
+    {
+        "BookID": 168,
+        "GenreID": 10
+    },
+    {
+        "BookID": 169,
+        "GenreID": 10
+    },
+    {
+        "BookID": 170,
+        "GenreID": 10
+    },
+    {
+        "BookID": 171,
+        "GenreID": 10
+    },
+    {
+        "BookID": 172,
+        "GenreID": 10
+    },
+    {
+        "BookID": 173,
+        "GenreID": 10
+    },
+    {
+        "BookID": 174,
+        "GenreID": 10
+    },
+    {
+        "BookID": 175,
+        "GenreID": 10
+    },
+    {
+        "BookID": 176,
+        "GenreID": 10
+    },
+    {
+        "BookID": 177,
+        "GenreID": 10
+    },
+    {
+        "BookID": 178,
+        "GenreID": 10
+    },
+    {
+        "BookID": 179,
+        "GenreID": 11
+    },
+    {
+        "BookID": 180,
+        "GenreID": 11
+    },
+    {
+        "BookID": 181,
+        "GenreID": 11
+    },
+    {
+        "BookID": 182,
+        "GenreID": 11
+    },
+    {
+        "BookID": 183,
+        "GenreID": 11
+    },
+    {
+        "BookID": 184,
+        "GenreID": 11
+    },
+    {
+        "BookID": 185,
+        "GenreID": 11
+    },
+    {
+        "BookID": 186,
+        "GenreID": 11
+    },
+    {
+        "BookID": 187,
+        "GenreID": 11
+    },
+    {
+        "BookID": 188,
+        "GenreID": 11
+    },
+    {
+        "BookID": 189,
+        "GenreID": 11
+    },
+    {
+        "BookID": 190,
+        "GenreID": 11
+    },
+    {
+        "BookID": 191,
+        "GenreID": 1
+    },
+    {
+        "BookID": 192,
+        "GenreID": 1
+    },
+    {
+        "BookID": 193,
+        "GenreID": 1
+    },
+    {
+        "BookID": 194,
+        "GenreID": 1
+    },
+    {
+        "BookID": 195,
+        "GenreID": 1
+    },
+    {
+        "BookID": 196,
+        "GenreID": 1
+    },
+    {
+        "BookID": 197,
+        "GenreID": 1
+    },
+    {
+        "BookID": 198,
+        "GenreID": 1
+    },
+    {
+        "BookID": 199,
+        "GenreID": 1
+    },
+    {
+        "BookID": 200,
+        "GenreID": 1
+    },
+    {
+        "BookID": 201,
+        "GenreID": 1
+    },
+    {
+        "BookID": 202,
+        "GenreID": 1
+    },
+    {
+        "BookID": 203,
+        "GenreID": 1
+    },
+    {
+        "BookID": 204,
+        "GenreID": 1
+    },
+    {
+        "BookID": 205,
+        "GenreID": 1
+    },
+    {
+        "BookID": 206,
+        "GenreID": 12
+    },
+    {
+        "BookID": 207,
+        "GenreID": 12
+    },
+    {
+        "BookID": 208,
+        "GenreID": 12
+    },
+    {
+        "BookID": 209,
+        "GenreID": 12
+    },
+    {
+        "BookID": 210,
+        "GenreID": 12
+    },
+    {
+        "BookID": 211,
+        "GenreID": 12
+    },
+    {
+        "BookID": 212,
+        "GenreID": 12
+    },
+    {
+        "BookID": 213,
+        "GenreID": 12
+    },
+    {
+        "BookID": 214,
+        "GenreID": 12
+    },
+    {
+        "BookID": 215,
+        "GenreID": 12
+    },
+    {
+        "BookID": 216,
+        "GenreID": 12
+    },
+    {
+        "BookID": 217,
+        "GenreID": 12
+    },
+    {
+        "BookID": 218,
+        "GenreID": 13
+    },
+    {
+        "BookID": 219,
+        "GenreID": 13
+    },
+    {
+        "BookID": 220,
+        "GenreID": 13
+    },
+    {
+        "BookID": 221,
+        "GenreID": 13
+    },
+    {
+        "BookID": 222,
+        "GenreID": 13
+    },
+    {
+        "BookID": 223,
+        "GenreID": 13
+    },
+    {
+        "BookID": 224,
+        "GenreID": 13
+    },
+    {
+        "BookID": 225,
+        "GenreID": 13
+    },
+    {
+        "BookID": 226,
+        "GenreID": 13
+    },
+    {
+        "BookID": 227,
+        "GenreID": 13
+    },
+    {
+        "BookID": 228,
+        "GenreID": 13
+    },
+    {
+        "BookID": 229,
+        "GenreID": 13
+    },
+    {
+        "BookID": 230,
+        "GenreID": 13
+    },
+    {
+        "BookID": 231,
+        "GenreID": 2
+    },
+    {
+        "BookID": 232,
+        "GenreID": 2
+    },
+    {
+        "BookID": 233,
+        "GenreID": 2
+    },
+    {
+        "BookID": 234,
+        "GenreID": 2
+    },
+    {
+        "BookID": 235,
+        "GenreID": 2
+    },
+    {
+        "BookID": 236,
+        "GenreID": 2
+    },
+    {
+        "BookID": 238,
+        "GenreID": 2
+    },
+    {
+        "BookID": 239,
+        "GenreID": 2
+    },
+    {
+        "BookID": 240,
+        "GenreID": 2
+    },
+    {
+        "BookID": 241,
+        "GenreID": 2
+    },
+    {
+        "BookID": 243,
+        "GenreID": 2
+    },
+    {
+        "BookID": 244,
+        "GenreID": 2
+    },
+    {
+        "BookID": 245,
+        "GenreID": 28
+    },
+    {
+        "BookID": 246,
+        "GenreID": 28
+    },
+    {
+        "BookID": 247,
+        "GenreID": 28
+    },
+    {
+        "BookID": 248,
+        "GenreID": 28
+    },
+    {
+        "BookID": 249,
+        "GenreID": 28
+    },
+    {
+        "BookID": 250,
+        "GenreID": 28
+    },
+    {
+        "BookID": 251,
+        "GenreID": 28
+    },
+    {
+        "BookID": 252,
+        "GenreID": 28
+    },
+    {
+        "BookID": 253,
+        "GenreID": 28
+    },
+    {
+        "BookID": 254,
+        "GenreID": 28
+    },
+    {
+        "BookID": 255,
+        "GenreID": 28
+    },
+    {
+        "BookID": 256,
+        "GenreID": 28
+    },
+    {
+        "BookID": 257,
+        "GenreID": 28
+    },
+    {
+        "BookID": 258,
+        "GenreID": 28
+    },
+    {
+        "BookID": 259,
+        "GenreID": 28
+    },
+    {
+        "BookID": 260,
+        "GenreID": 14
+    },
+    {
+        "BookID": 261,
+        "GenreID": 14
+    },
+    {
+        "BookID": 262,
+        "GenreID": 14
+    },
+    {
+        "BookID": 263,
+        "GenreID": 14
+    },
+    {
+        "BookID": 264,
+        "GenreID": 14
+    },
+    {
+        "BookID": 265,
+        "GenreID": 14
+    },
+    {
+        "BookID": 266,
+        "GenreID": 14
+    },
+    {
+        "BookID": 267,
+        "GenreID": 14
+    },
+    {
+        "BookID": 268,
+        "GenreID": 14
+    },
+    {
+        "BookID": 269,
+        "GenreID": 14
+    },
+    {
+        "BookID": 270,
+        "GenreID": 14
+    },
+    {
+        "BookID": 271,
+        "GenreID": 14
+    },
+    {
+        "BookID": 272,
+        "GenreID": 14
+    },
+    {
+        "BookID": 278,
+        "GenreID": 15
+    },
+    {
+        "BookID": 279,
+        "GenreID": 15
+    },
+    {
+        "BookID": 281,
+        "GenreID": 15
+    },
+    {
+        "BookID": 282,
+        "GenreID": 15
+    },
+    {
+        "BookID": 283,
+        "GenreID": 15
+    },
+    {
+        "BookID": 284,
+        "GenreID": 15
+    },
+    {
+        "BookID": 285,
+        "GenreID": 15
+    },
+    {
+        "BookID": 286,
+        "GenreID": 15
+    },
+    {
+        "BookID": 287,
+        "GenreID": 15
+    },
+    {
+        "BookID": 288,
+        "GenreID": 15
+    },
+    {
+        "BookID": 289,
+        "GenreID": 15
+    },
+    {
+        "BookID": 290,
+        "GenreID": 15
+    },
+    {
+        "BookID": 291,
+        "GenreID": 15
+    },
+    {
+        "BookID": 292,
+        "GenreID": 15
+    },
+    {
+        "BookID": 293,
+        "GenreID": 15
+    },
+    {
+        "BookID": 294,
+        "GenreID": 15
+    },
+    {
+        "BookID": 295,
+        "GenreID": 15
+    },
+    {
+        "BookID": 296,
+        "GenreID": 16
+    },
+    {
+        "BookID": 297,
+        "GenreID": 16
+    },
+    {
+        "BookID": 298,
+        "GenreID": 16
+    },
+    {
+        "BookID": 299,
+        "GenreID": 16
+    },
+    {
+        "BookID": 300,
+        "GenreID": 16
+    },
+    {
+        "BookID": 301,
+        "GenreID": 17
+    },
+    {
+        "BookID": 302,
+        "GenreID": 17
+    },
+    {
+        "BookID": 303,
+        "GenreID": 17
+    },
+    {
+        "BookID": 304,
+        "GenreID": 17
+    },
+    {
+        "BookID": 305,
+        "GenreID": 17
+    },
+    {
+        "BookID": 306,
+        "GenreID": 17
+    },
+    {
+        "BookID": 307,
+        "GenreID": 17
+    },
+    {
+        "BookID": 308,
+        "GenreID": 17
+    },
+    {
+        "BookID": 309,
+        "GenreID": 17
+    },
+    {
+        "BookID": 311,
+        "GenreID": 17
+    },
+    {
+        "BookID": 312,
+        "GenreID": 17
+    },
+    {
+        "BookID": 313,
+        "GenreID": 17
+    },
+    {
+        "BookID": 314,
+        "GenreID": 17
+    },
+    {
+        "BookID": 315,
+        "GenreID": 17
+    },
+    {
+        "BookID": 316,
+        "GenreID": 17
+    },
+    {
+        "BookID": 317,
+        "GenreID": 17
+    },
+    {
+        "BookID": 318,
+        "GenreID": 17
+    },
+    {
+        "BookID": 319,
+        "GenreID": 17
+    },
+    {
+        "BookID": 320,
+        "GenreID": 18
+    },
+    {
+        "BookID": 321,
+        "GenreID": 18
+    },
+    {
+        "BookID": 322,
+        "GenreID": 18
+    },
+    {
+        "BookID": 323,
+        "GenreID": 18
+    },
+    {
+        "BookID": 324,
+        "GenreID": 18
+    },
+    {
+        "BookID": 325,
+        "GenreID": 18
+    },
+    {
+        "BookID": 326,
+        "GenreID": 18
+    },
+    {
+        "BookID": 327,
+        "GenreID": 18
+    },
+    {
+        "BookID": 328,
+        "GenreID": 18
+    },
+    {
+        "BookID": 329,
+        "GenreID": 18
+    },
+    {
+        "BookID": 330,
+        "GenreID": 18
+    },
+    {
+        "BookID": 331,
+        "GenreID": 18
+    },
+    {
+        "BookID": 332,
+        "GenreID": 18
+    },
+    {
+        "BookID": 333,
+        "GenreID": 10
+    },
+    {
+        "BookID": 334,
+        "GenreID": 10
+    },
+    {
+        "BookID": 335,
+        "GenreID": 10
+    },
+    {
+        "BookID": 336,
+        "GenreID": 10
+    },
+    {
+        "BookID": 337,
+        "GenreID": 10
+    },
+    {
+        "BookID": 338,
+        "GenreID": 10
+    },
+    {
+        "BookID": 339,
+        "GenreID": 10
+    },
+    {
+        "BookID": 340,
+        "GenreID": 10
+    },
+    {
+        "BookID": 342,
+        "GenreID": 10
+    },
+    {
+        "BookID": 343,
+        "GenreID": 10
+    },
+    {
+        "BookID": 344,
+        "GenreID": 10
+    },
+    {
+        "BookID": 345,
+        "GenreID": 13
+    },
+    {
+        "BookID": 346,
+        "GenreID": 13
+    },
+    {
+        "BookID": 347,
+        "GenreID": 13
+    },
+    {
+        "BookID": 348,
+        "GenreID": 13
+    },
+    {
+        "BookID": 349,
+        "GenreID": 13
+    },
+    {
+        "BookID": 350,
+        "GenreID": 13
+    },
+    {
+        "BookID": 351,
+        "GenreID": 13
+    },
+    {
+        "BookID": 352,
+        "GenreID": 13
+    },
+    {
+        "BookID": 354,
+        "GenreID": 13
+    },
+    {
+        "BookID": 355,
+        "GenreID": 13
+    },
+    {
+        "BookID": 356,
+        "GenreID": 13
+    },
+    {
+        "BookID": 357,
+        "GenreID": 13
+    },
+    {
+        "BookID": 358,
+        "GenreID": 13
+    },
+    {
+        "BookID": 359,
+        "GenreID": 13
+    },
+    {
+        "BookID": 360,
+        "GenreID": 13
+    },
+    {
+        "BookID": 361,
+        "GenreID": 13
+    },
+    {
+        "BookID": 362,
+        "GenreID": 10
+    },
+    {
+        "BookID": 363,
+        "GenreID": 10
+    },
+    {
+        "BookID": 364,
+        "GenreID": 10
+    },
+    {
+        "BookID": 365,
+        "GenreID": 10
+    },
+    {
+        "BookID": 366,
+        "GenreID": 10
+    },
+    {
+        "BookID": 367,
+        "GenreID": 10
+    },
+    {
+        "BookID": 368,
+        "GenreID": 10
+    },
+    {
+        "BookID": 369,
+        "GenreID": 10
+    },
+    {
+        "BookID": 370,
+        "GenreID": 10
+    },
+    {
+        "BookID": 372,
+        "GenreID": 10
+    },
+    {
+        "BookID": 373,
+        "GenreID": 10
+    },
+    {
+        "BookID": 374,
+        "GenreID": 10
+    },
+    {
+        "BookID": 375,
+        "GenreID": 10
+    },
+    {
+        "BookID": 376,
+        "GenreID": 19
+    },
+    {
+        "BookID": 377,
+        "GenreID": 19
+    },
+    {
+        "BookID": 378,
+        "GenreID": 19
+    },
+    {
+        "BookID": 379,
+        "GenreID": 19
+    },
+    {
+        "BookID": 380,
+        "GenreID": 19
+    },
+    {
+        "BookID": 381,
+        "GenreID": 19
+    },
+    {
+        "BookID": 382,
+        "GenreID": 19
+    },
+    {
+        "BookID": 383,
+        "GenreID": 19
+    },
+    {
+        "BookID": 384,
+        "GenreID": 19
+    },
+    {
+        "BookID": 385,
+        "GenreID": 19
+    },
+    {
+        "BookID": 386,
+        "GenreID": 19
+    },
+    {
+        "BookID": 387,
+        "GenreID": 19
+    },
+    {
+        "BookID": 388,
+        "GenreID": 19
+    },
+    {
+        "BookID": 389,
+        "GenreID": 19
+    },
+    {
+        "BookID": 391,
+        "GenreID": 3
+    },
+    {
+        "BookID": 392,
+        "GenreID": 3
+    },
+    {
+        "BookID": 394,
+        "GenreID": 3
+    },
+    {
+        "BookID": 396,
+        "GenreID": 3
+    },
+    {
+        "BookID": 398,
+        "GenreID": 3
+    },
+    {
+        "BookID": 399,
+        "GenreID": 3
+    },
+    {
+        "BookID": 400,
+        "GenreID": 3
+    },
+    {
+        "BookID": 402,
+        "GenreID": 3
+    },
+    {
+        "BookID": 403,
+        "GenreID": 3
+    },
+    {
+        "BookID": 404,
+        "GenreID": 3
+    },
+    {
+        "BookID": 405,
+        "GenreID": 3
+    },
+    {
+        "BookID": 406,
+        "GenreID": 3
+    },
+    {
+        "BookID": 407,
+        "GenreID": 3
+    },
+    {
+        "BookID": 408,
+        "GenreID": 1
+    },
+    {
+        "BookID": 410,
+        "GenreID": 1
+    },
+    {
+        "BookID": 411,
+        "GenreID": 1
+    },
+    {
+        "BookID": 412,
+        "GenreID": 1
+    },
+    {
+        "BookID": 413,
+        "GenreID": 1
+    },
+    {
+        "BookID": 414,
+        "GenreID": 1
+    },
+    {
+        "BookID": 415,
+        "GenreID": 1
+    },
+    {
+        "BookID": 416,
+        "GenreID": 1
+    },
+    {
+        "BookID": 417,
+        "GenreID": 1
+    },
+    {
+        "BookID": 418,
+        "GenreID": 1
+    },
+    {
+        "BookID": 419,
+        "GenreID": 1
+    },
+    {
+        "BookID": 420,
+        "GenreID": 1
+    },
+    {
+        "BookID": 421,
+        "GenreID": 1
+    },
+    {
+        "BookID": 423,
+        "GenreID": 1
+    },
+    {
+        "BookID": 424,
+        "GenreID": 1
+    },
+    {
+        "BookID": 425,
+        "GenreID": 10
+    },
+    {
+        "BookID": 426,
+        "GenreID": 10
+    },
+    {
+        "BookID": 427,
+        "GenreID": 10
+    },
+    {
+        "BookID": 428,
+        "GenreID": 10
+    },
+    {
+        "BookID": 429,
+        "GenreID": 10
+    },
+    {
+        "BookID": 430,
+        "GenreID": 10
+    },
+    {
+        "BookID": 431,
+        "GenreID": 10
+    },
+    {
+        "BookID": 432,
+        "GenreID": 10
+    },
+    {
+        "BookID": 433,
+        "GenreID": 10
+    },
+    {
+        "BookID": 434,
+        "GenreID": 10
+    },
+    {
+        "BookID": 435,
+        "GenreID": 10
+    },
+    {
+        "BookID": 436,
+        "GenreID": 10
+    },
+    {
+        "BookID": 437,
+        "GenreID": 10
+    },
+    {
+        "BookID": 438,
+        "GenreID": 23
+    },
+    {
+        "BookID": 439,
+        "GenreID": 23
+    },
+    {
+        "BookID": 440,
+        "GenreID": 23
+    },
+    {
+        "BookID": 441,
+        "GenreID": 23
+    },
+    {
+        "BookID": 442,
+        "GenreID": 23
+    },
+    {
+        "BookID": 443,
+        "GenreID": 23
+    },
+    {
+        "BookID": 445,
+        "GenreID": 23
+    },
+    {
+        "BookID": 446,
+        "GenreID": 23
+    },
+    {
+        "BookID": 447,
+        "GenreID": 23
+    },
+    {
+        "BookID": 448,
+        "GenreID": 23
+    },
+    {
+        "BookID": 449,
+        "GenreID": 23
+    },
+    {
+        "BookID": 450,
+        "GenreID": 23
+    },
+    {
+        "BookID": 451,
+        "GenreID": 20
+    },
+    {
+        "BookID": 452,
+        "GenreID": 20
+    },
+    {
+        "BookID": 453,
+        "GenreID": 20
+    },
+    {
+        "BookID": 454,
+        "GenreID": 20
+    },
+    {
+        "BookID": 455,
+        "GenreID": 20
+    },
+    {
+        "BookID": 456,
+        "GenreID": 20
+    },
+    {
+        "BookID": 457,
+        "GenreID": 20
+    },
+    {
+        "BookID": 458,
+        "GenreID": 20
+    },
+    {
+        "BookID": 460,
+        "GenreID": 20
+    },
+    {
+        "BookID": 461,
+        "GenreID": 20
+    },
+    {
+        "BookID": 462,
+        "GenreID": 20
+    },
+    {
+        "BookID": 463,
+        "GenreID": 20
+    },
+    {
+        "BookID": 464,
+        "GenreID": 20
+    },
+    {
+        "BookID": 465,
+        "GenreID": 17
+    },
+    {
+        "BookID": 466,
+        "GenreID": 17
+    },
+    {
+        "BookID": 467,
+        "GenreID": 17
+    },
+    {
+        "BookID": 468,
+        "GenreID": 17
+    },
+    {
+        "BookID": 469,
+        "GenreID": 17
+    },
+    {
+        "BookID": 470,
+        "GenreID": 17
+    },
+    {
+        "BookID": 471,
+        "GenreID": 17
+    },
+    {
+        "BookID": 474,
+        "GenreID": 17
+    },
+    {
+        "BookID": 475,
+        "GenreID": 17
+    },
+    {
+        "BookID": 476,
+        "GenreID": 17
+    },
+    {
+        "BookID": 477,
+        "GenreID": 17
+    },
+    {
+        "BookID": 478,
+        "GenreID": 17
+    },
+    {
+        "BookID": 479,
+        "GenreID": 17
+    },
+    {
+        "BookID": 480,
+        "GenreID": 17
+    },
+    {
+        "BookID": 481,
+        "GenreID": 5
+    },
+    {
+        "BookID": 482,
+        "GenreID": 5
+    },
+    {
+        "BookID": 483,
+        "GenreID": 5
+    },
+    {
+        "BookID": 484,
+        "GenreID": 5
+    },
+    {
+        "BookID": 485,
+        "GenreID": 5
+    },
+    {
+        "BookID": 486,
+        "GenreID": 5
+    },
+    {
+        "BookID": 487,
+        "GenreID": 5
+    },
+    {
+        "BookID": 488,
+        "GenreID": 5
+    },
+    {
+        "BookID": 490,
+        "GenreID": 5
+    },
+    {
+        "BookID": 491,
+        "GenreID": 5
+    },
+    {
+        "BookID": 492,
+        "GenreID": 5
+    },
+    {
+        "BookID": 493,
+        "GenreID": 5
+    },
+    {
+        "BookID": 494,
+        "GenreID": 21
+    },
+    {
+        "BookID": 495,
+        "GenreID": 21
+    },
+    {
+        "BookID": 497,
+        "GenreID": 21
+    },
+    {
+        "BookID": 498,
+        "GenreID": 21
+    },
+    {
+        "BookID": 499,
+        "GenreID": 21
+    },
+    {
+        "BookID": 500,
+        "GenreID": 21
+    },
+    {
+        "BookID": 502,
+        "GenreID": 21
+    },
+    {
+        "BookID": 503,
+        "GenreID": 21
+    },
+    {
+        "BookID": 504,
+        "GenreID": 21
+    },
+    {
+        "BookID": 505,
+        "GenreID": 21
+    },
+    {
+        "BookID": 506,
+        "GenreID": 21
+    },
+    {
+        "BookID": 507,
+        "GenreID": 21
+    },
+    {
+        "BookID": 508,
+        "GenreID": 21
+    },
+    {
+        "BookID": 509,
+        "GenreID": 21
+    },
+    {
+        "BookID": 510,
+        "GenreID": 22
+    },
+    {
+        "BookID": 512,
+        "GenreID": 22
+    },
+    {
+        "BookID": 513,
+        "GenreID": 22
+    },
+    {
+        "BookID": 514,
+        "GenreID": 22
+    },
+    {
+        "BookID": 515,
+        "GenreID": 17
+    },
+    {
+        "BookID": 516,
+        "GenreID": 22
+    },
+    {
+        "BookID": 517,
+        "GenreID": 22
+    },
+    {
+        "BookID": 518,
+        "GenreID": 22
+    },
+    {
+        "BookID": 519,
+        "GenreID": 22
+    },
+    {
+        "BookID": 520,
+        "GenreID": 22
+    },
+    {
+        "BookID": 523,
+        "GenreID": 23
+    },
+    {
+        "BookID": 524,
+        "GenreID": 23
+    },
+    {
+        "BookID": 525,
+        "GenreID": 23
+    },
+    {
+        "BookID": 526,
+        "GenreID": 23
+    },
+    {
+        "BookID": 527,
+        "GenreID": 23
+    },
+    {
+        "BookID": 528,
+        "GenreID": 23
+    },
+    {
+        "BookID": 529,
+        "GenreID": 23
+    },
+    {
+        "BookID": 530,
+        "GenreID": 23
+    },
+    {
+        "BookID": 531,
+        "GenreID": 23
+    },
+    {
+        "BookID": 532,
+        "GenreID": 23
+    },
+    {
+        "BookID": 533,
+        "GenreID": 23
+    },
+    {
+        "BookID": 534,
+        "GenreID": 23
+    },
+    {
+        "BookID": 535,
+        "GenreID": 23
+    },
+    {
+        "BookID": 536,
+        "GenreID": 23
+    },
+    {
+        "BookID": 537,
+        "GenreID": 23
+    },
+    {
+        "BookID": 538,
+        "GenreID": 23
+    },
+    {
+        "BookID": 539,
+        "GenreID": 22
+    },
+    {
+        "BookID": 540,
+        "GenreID": 18
+    },
+    {
+        "BookID": 541,
+        "GenreID": 18
+    },
+    {
+        "BookID": 542,
+        "GenreID": 18
+    },
+    {
+        "BookID": 543,
+        "GenreID": 18
+    },
+    {
+        "BookID": 544,
+        "GenreID": 18
+    },
+    {
+        "BookID": 545,
+        "GenreID": 18
+    },
+    {
+        "BookID": 546,
+        "GenreID": 18
+    },
+    {
+        "BookID": 547,
+        "GenreID": 18
+    },
+    {
+        "BookID": 548,
+        "GenreID": 18
+    },
+    {
+        "BookID": 549,
+        "GenreID": 18
+    },
+    {
+        "BookID": 550,
+        "GenreID": 18
+    },
+    {
+        "BookID": 551,
+        "GenreID": 18
+    },
+    {
+        "BookID": 552,
+        "GenreID": 18
+    },
+    {
+        "BookID": 553,
+        "GenreID": 5
+    },
+    {
+        "BookID": 554,
+        "GenreID": 5
+    },
+    {
+        "BookID": 555,
+        "GenreID": 5
+    },
+    {
+        "BookID": 556,
+        "GenreID": 5
+    },
+    {
+        "BookID": 559,
+        "GenreID": 5
+    },
+    {
+        "BookID": 560,
+        "GenreID": 5
+    },
+    {
+        "BookID": 561,
+        "GenreID": 5
+    },
+    {
+        "BookID": 563,
+        "GenreID": 5
+    },
+    {
+        "BookID": 564,
+        "GenreID": 5
+    },
+    {
+        "BookID": 565,
+        "GenreID": 5
+    },
+    {
+        "BookID": 566,
+        "GenreID": 5
+    },
+    {
+        "BookID": 568,
+        "GenreID": 24
+    },
+    {
+        "BookID": 569,
+        "GenreID": 24
+    },
+    {
+        "BookID": 570,
+        "GenreID": 24
+    },
+    {
+        "BookID": 571,
+        "GenreID": 24
+    },
+    {
+        "BookID": 572,
+        "GenreID": 24
+    },
+    {
+        "BookID": 573,
+        "GenreID": 24
+    },
+    {
+        "BookID": 574,
+        "GenreID": 24
+    },
+    {
+        "BookID": 576,
+        "GenreID": 24
+    },
+    {
+        "BookID": 577,
+        "GenreID": 24
+    },
+    {
+        "BookID": 578,
+        "GenreID": 24
+    },
+    {
+        "BookID": 579,
+        "GenreID": 24
+    },
+    {
+        "BookID": 580,
+        "GenreID": 24
+    },
+    {
+        "BookID": 581,
+        "GenreID": 24
+    },
+    {
+        "BookID": 582,
+        "GenreID": 24
+    },
+    {
+        "BookID": 583,
+        "GenreID": 24
+    },
+    {
+        "BookID": 585,
+        "GenreID": 24
+    },
+    {
+        "BookID": 586,
+        "GenreID": 25
+    },
+    {
+        "BookID": 587,
+        "GenreID": 25
+    },
+    {
+        "BookID": 588,
+        "GenreID": 25
+    },
+    {
+        "BookID": 589,
+        "GenreID": 25
+    },
+    {
+        "BookID": 590,
+        "GenreID": 25
+    },
+    {
+        "BookID": 591,
+        "GenreID": 25
+    },
+    {
+        "BookID": 592,
+        "GenreID": 25
+    },
+    {
+        "BookID": 593,
+        "GenreID": 25
+    },
+    {
+        "BookID": 594,
+        "GenreID": 25
+    },
+    {
+        "BookID": 595,
+        "GenreID": 25
+    },
+    {
+        "BookID": 596,
+        "GenreID": 25
+    },
+    {
+        "BookID": 597,
+        "GenreID": 25
+    },
+    {
+        "BookID": 598,
+        "GenreID": 25
+    },
+    {
+        "BookID": 599,
+        "GenreID": 25
+    },
+    {
+        "BookID": 600,
+        "GenreID": 25
+    },
+    {
+        "BookID": 601,
+        "GenreID": 25
+    },
+    {
+        "BookID": 602,
+        "GenreID": 25
+    },
+    {
+        "BookID": 603,
+        "GenreID": 2
+    },
+    {
+        "BookID": 604,
+        "GenreID": 2
+    },
+    {
+        "BookID": 605,
+        "GenreID": 2
+    },
+    {
+        "BookID": 606,
+        "GenreID": 2
+    },
+    {
+        "BookID": 607,
+        "GenreID": 2
+    },
+    {
+        "BookID": 608,
+        "GenreID": 2
+    },
+    {
+        "BookID": 609,
+        "GenreID": 2
+    },
+    {
+        "BookID": 610,
+        "GenreID": 2
+    },
+    {
+        "BookID": 611,
+        "GenreID": 2
+    },
+    {
+        "BookID": 612,
+        "GenreID": 2
+    },
+    {
+        "BookID": 613,
+        "GenreID": 5
+    },
+    {
+        "BookID": 614,
+        "GenreID": 5
+    },
+    {
+        "BookID": 615,
+        "GenreID": 5
+    },
+    {
+        "BookID": 616,
+        "GenreID": 5
+    },
+    {
+        "BookID": 618,
+        "GenreID": 5
+    },
+    {
+        "BookID": 619,
+        "GenreID": 5
+    },
+    {
+        "BookID": 621,
+        "GenreID": 5
+    },
+    {
+        "BookID": 622,
+        "GenreID": 5
+    },
+    {
+        "BookID": 623,
+        "GenreID": 5
+    },
+    {
+        "BookID": 624,
+        "GenreID": 5
+    },
+    {
+        "BookID": 625,
+        "GenreID": 5
+    },
+    {
+        "BookID": 626,
+        "GenreID": 5
+    },
+    {
+        "BookID": 627,
+        "GenreID": 5
+    },
+    {
+        "BookID": 628,
+        "GenreID": 15
+    },
+    {
+        "BookID": 629,
+        "GenreID": 15
+    },
+    {
+        "BookID": 630,
+        "GenreID": 15
+    },
+    {
+        "BookID": 631,
+        "GenreID": 15
+    },
+    {
+        "BookID": 632,
+        "GenreID": 15
+    },
+    {
+        "BookID": 633,
+        "GenreID": 15
+    },
+    {
+        "BookID": 634,
+        "GenreID": 15
+    },
+    {
+        "BookID": 635,
+        "GenreID": 15
+    },
+    {
+        "BookID": 636,
+        "GenreID": 15
+    },
+    {
+        "BookID": 637,
+        "GenreID": 15
+    },
+    {
+        "BookID": 638,
+        "GenreID": 15
+    },
+    {
+        "BookID": 639,
+        "GenreID": 15
+    },
+    {
+        "BookID": 640,
+        "GenreID": 15
+    },
+    {
+        "BookID": 641,
+        "GenreID": 26
+    },
+    {
+        "BookID": 642,
+        "GenreID": 26
+    },
+    {
+        "BookID": 643,
+        "GenreID": 26
+    },
+    {
+        "BookID": 644,
+        "GenreID": 26
+    },
+    {
+        "BookID": 645,
+        "GenreID": 26
+    },
+    {
+        "BookID": 647,
+        "GenreID": 26
+    },
+    {
+        "BookID": 648,
+        "GenreID": 26
+    },
+    {
+        "BookID": 649,
+        "GenreID": 26
+    },
+    {
+        "BookID": 650,
+        "GenreID": 26
+    },
+    {
+        "BookID": 651,
+        "GenreID": 26
+    },
+    {
+        "BookID": 652,
+        "GenreID": 26
+    },
+    {
+        "BookID": 653,
+        "GenreID": 26
+    },
+    {
+        "BookID": 654,
+        "GenreID": 3
+    },
+    {
+        "BookID": 655,
+        "GenreID": 3
+    },
+    {
+        "BookID": 656,
+        "GenreID": 3
+    },
+    {
+        "BookID": 657,
+        "GenreID": 3
+    },
+    {
+        "BookID": 658,
+        "GenreID": 3
+    },
+    {
+        "BookID": 660,
+        "GenreID": 3
+    },
+    {
+        "BookID": 661,
+        "GenreID": 3
+    },
+    {
+        "BookID": 662,
+        "GenreID": 3
+    },
+    {
+        "BookID": 663,
+        "GenreID": 3
+    },
+    {
+        "BookID": 664,
+        "GenreID": 3
+    },
+    {
+        "BookID": 665,
+        "GenreID": 3
+    },
+    {
+        "BookID": 666,
+        "GenreID": 3
+    },
+    {
+        "BookID": 667,
+        "GenreID": 3
+    },
+    {
+        "BookID": 669,
+        "GenreID": 3
+    },
+    {
+        "BookID": 670,
+        "GenreID": 3
+    },
+    {
+        "BookID": 671,
+        "GenreID": 27
+    },
+    {
+        "BookID": 672,
+        "GenreID": 27
+    },
+    {
+        "BookID": 673,
+        "GenreID": 27
+    },
+    {
+        "BookID": 674,
+        "GenreID": 27
+    },
+    {
+        "BookID": 675,
+        "GenreID": 27
+    },
+    {
+        "BookID": 676,
+        "GenreID": 27
+    },
+    {
+        "BookID": 677,
+        "GenreID": 27
+    },
+    {
+        "BookID": 678,
+        "GenreID": 27
+    },
+    {
+        "BookID": 679,
+        "GenreID": 27
+    },
+    {
+        "BookID": 680,
+        "GenreID": 27
+    },
+    {
+        "BookID": 681,
+        "GenreID": 27
+    },
+    {
+        "BookID": 682,
+        "GenreID": 27
+    },
+    {
+        "BookID": 684,
+        "GenreID": 27
+    },
+    {
+        "BookID": 685,
+        "GenreID": 27
+    },
+    {
+        "BookID": 686,
+        "GenreID": 16
+    },
+    {
+        "BookID": 687,
+        "GenreID": 16
+    },
+    {
+        "BookID": 688,
+        "GenreID": 16
+    },
+    {
+        "BookID": 689,
+        "GenreID": 16
+    },
+    {
+        "BookID": 690,
+        "GenreID": 16
+    },
+    {
+        "BookID": 691,
+        "GenreID": 16
+    },
+    {
+        "BookID": 692,
+        "GenreID": 16
+    },
+    {
+        "BookID": 693,
+        "GenreID": 16
+    },
+    {
+        "BookID": 695,
+        "GenreID": 16
+    },
+    {
+        "BookID": 696,
+        "GenreID": 16
+    },
+    {
+        "BookID": 697,
+        "GenreID": 16
+    },
+    {
+        "BookID": 698,
+        "GenreID": 16
+    },
+    {
+        "BookID": 699,
+        "GenreID": 16
+    },
+    {
+        "BookID": 700,
+        "GenreID": 16
+    },
+    {
+        "BookID": 701,
+        "GenreID": 17
+    },
+    {
+        "BookID": 702,
+        "GenreID": 17
+    },
+    {
+        "BookID": 703,
+        "GenreID": 17
+    },
+    {
+        "BookID": 704,
+        "GenreID": 17
+    },
+    {
+        "BookID": 705,
+        "GenreID": 17
+    },
+    {
+        "BookID": 706,
+        "GenreID": 17
+    },
+    {
+        "BookID": 707,
+        "GenreID": 17
+    },
+    {
+        "BookID": 708,
+        "GenreID": 17
+    },
+    {
+        "BookID": 709,
+        "GenreID": 17
+    },
+    {
+        "BookID": 710,
+        "GenreID": 17
+    },
+    {
+        "BookID": 711,
+        "GenreID": 17
+    },
+    {
+        "BookID": 712,
+        "GenreID": 17
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "GenreID": 1,
+        "GenreName": "عاشقانه و درام اجتماعی"
+    },
+    {
+        "GenreID": 2,
+        "GenreName": "ادبیات کلاسیک"
+    },
+    {
+        "GenreID": 3,
+        "GenreName": "کمدی و طنز اجتماعی"
+    },
+    {
+        "GenreID": 4,
+        "GenreName": "عاشقانه و درام خانوادگی"
+    },
+    {
+        "GenreID": 5,
+        "GenreName": "تاریخی و بیوگرافی"
+    },
+    {
+        "GenreID": 6,
+        "GenreName": "روانشناسی و خودشناسی"
+    },
+    {
+        "GenreID": 7,
+        "GenreName": "فانتزی ماجراجویی"
+    },
+    {
+        "GenreID": 8,
+        "GenreName": "عاشقانه هیجان انگیز"
+    },
+    {
+        "GenreID": 9,
+        "GenreName": "ادبیات شاعرانه و رمان های احساسی"
+    },
+    {
+        "GenreID": 10,
+        "GenreName": "فانتزی و تخیلی"
+    },
+    {
+        "GenreID": 11,
+        "GenreName": "سفرنامه ها"
+    },
+    {
+        "GenreID": 12,
+        "GenreName": "فانتزی اجتماعی"
+    },
+    {
+        "GenreID": 13,
+        "GenreName": "ادبیات معناگرا و فلسفی"
+    },
+    {
+        "GenreID": 14,
+        "GenreName": "شعر و ادبیات عرفانی"
+    },
+    {
+        "GenreID": 15,
+        "GenreName": "اکشن ماجراجویی"
+    },
+    {
+        "GenreID": 16,
+        "GenreName": "علمی تخیلی"
+    },
+    {
+        "GenreID": 17,
+        "GenreName": "معمایی"
+    },
+    {
+        "GenreID": 18,
+        "GenreName": "جنایی معمایی"
+    },
+    {
+        "GenreID": 19,
+        "GenreName": "عاشقانه"
+    },
+    {
+        "GenreID": 20,
+        "GenreName": "مدیریت، رهبری توسعه فردی"
+    },
+    {
+        "GenreID": 21,
+        "GenreName": "علمی تخیلی و فانتزی فلسفی"
+    },
+    {
+        "GenreID": 22,
+        "GenreName": "معمایی و روانشناختی"
+    },
+    {
+        "GenreID": 23,
+        "GenreName": "ادبیات کلاسیک فلسفی"
+    },
+    {
+        "GenreID": 24,
+        "GenreName": "مدیریت و خودپروری"
+    },
+    {
+        "GenreID": 25,
+        "GenreName": "معمایی پلیسی"
+    },
+    {
+        "GenreID": 26,
+        "GenreName": "معمایی و تریلر"
+    },
+    {
+        "GenreID": 27,
+        "GenreName": "ماجراجویی "
+    },
+    {
+        "GenreID": 28,
+        "GenreName": "فانتزی"
+    }
+]

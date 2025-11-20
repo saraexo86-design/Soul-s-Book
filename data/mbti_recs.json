@@ -1,0 +1,194 @@
+[
+    {
+        "TypeID": 1,
+        "GenreID": 1
+    },
+    {
+        "TypeID": 1,
+        "GenreID": 2
+    },
+    {
+        "TypeID": 1,
+        "GenreID": 3
+    },
+    {
+        "TypeID": 2,
+        "GenreID": 4
+    },
+    {
+        "TypeID": 2,
+        "GenreID": 5
+    },
+    {
+        "TypeID": 2,
+        "GenreID": 6
+    },
+    {
+        "TypeID": 3,
+        "GenreID": 3
+    },
+    {
+        "TypeID": 3,
+        "GenreID": 7
+    },
+    {
+        "TypeID": 3,
+        "GenreID": 8
+    },
+    {
+        "TypeID": 4,
+        "GenreID": 9
+    },
+    {
+        "TypeID": 4,
+        "GenreID": 10
+    },
+    {
+        "TypeID": 4,
+        "GenreID": 11
+    },
+    {
+        "TypeID": 5,
+        "GenreID": 1
+    },
+    {
+        "TypeID": 5,
+        "GenreID": 12
+    },
+    {
+        "TypeID": 5,
+        "GenreID": 13
+    },
+    {
+        "TypeID": 6,
+        "GenreID": 2
+    },
+    {
+        "TypeID": 6,
+        "GenreID": 14
+    },
+    {
+        "TypeID": 6,
+        "GenreID": 28
+    },
+    {
+        "TypeID": 7,
+        "GenreID": 15
+    },
+    {
+        "TypeID": 7,
+        "GenreID": 16
+    },
+    {
+        "TypeID": 7,
+        "GenreID": 17
+    },
+    {
+        "TypeID": 8,
+        "GenreID": 10
+    },
+    {
+        "TypeID": 8,
+        "GenreID": 13
+    },
+    {
+        "TypeID": 8,
+        "GenreID": 18
+    },
+    {
+        "TypeID": 9,
+        "GenreID": 3
+    },
+    {
+        "TypeID": 9,
+        "GenreID": 10
+    },
+    {
+        "TypeID": 9,
+        "GenreID": 19
+    },
+    {
+        "TypeID": 10,
+        "GenreID": 1
+    },
+    {
+        "TypeID": 10,
+        "GenreID": 10
+    },
+    {
+        "TypeID": 10,
+        "GenreID": 23
+    },
+    {
+        "TypeID": 11,
+        "GenreID": 5
+    },
+    {
+        "TypeID": 11,
+        "GenreID": 17
+    },
+    {
+        "TypeID": 11,
+        "GenreID": 20
+    },
+    {
+        "TypeID": 12,
+        "GenreID": 21
+    },
+    {
+        "TypeID": 12,
+        "GenreID": 22
+    },
+    {
+        "TypeID": 12,
+        "GenreID": 23
+    },
+    {
+        "TypeID": 13,
+        "GenreID": 5
+    },
+    {
+        "TypeID": 13,
+        "GenreID": 18
+    },
+    {
+        "TypeID": 13,
+        "GenreID": 24
+    },
+    {
+        "TypeID": 14,
+        "GenreID": 2
+    },
+    {
+        "TypeID": 14,
+        "GenreID": 5
+    },
+    {
+        "TypeID": 14,
+        "GenreID": 25
+    },
+    {
+        "TypeID": 15,
+        "GenreID": 3
+    },
+    {
+        "TypeID": 15,
+        "GenreID": 15
+    },
+    {
+        "TypeID": 15,
+        "GenreID": 26
+    },
+    {
+        "TypeID": 16,
+        "GenreID": 16
+    },
+    {
+        "TypeID": 16,
+        "GenreID": 17
+    },
+    {
+        "TypeID": 16,
+        "GenreID": 27
+    }
+]
